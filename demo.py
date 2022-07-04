@@ -22,7 +22,6 @@ from lib.data_utils.kp_utils import convert_kps
 from lib.utils.pose_tracker import run_posetracker
 
 from lib.utils.demo_utils import (
-    smplify_runner,
     convert_crop_coords_to_orig_img,
     convert_crop_cam_to_orig_img,
     prepare_rendering_results,
